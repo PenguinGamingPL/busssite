@@ -2,9 +2,9 @@ body {
     background-color: #2d2e31;
     padding: 0px;
     border-radius: 1px;
+    direction: row;
 }
 
 search {
     align-items: center;
-    direction: row;
 }
