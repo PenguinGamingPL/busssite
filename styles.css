@@ -7,3 +7,7 @@ body {
 search {
     align-items: center;
 }
+
+sinput {
+    direction: row;
+}
