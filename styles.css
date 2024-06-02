@@ -5,8 +5,5 @@ body {
 
 search {
   background-color: #2d2e31;
-  overflow: hidden;
-  width: 800px;
-  height: 350px;
   align-items: center;
 }
