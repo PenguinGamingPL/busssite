@@ -21,35 +21,30 @@ query {
 }
 
 card {
-    opacity: 0.5;
+    opacity: 0.0;
 
     direction: column;
     padding: 10px;
-    border-radius: 12px;
-    border-width: 2px;
-    border-color: rgb(0, 0, 0);
+    border-radius: 0px;
+    border-width: 0px;
     border-style: solid;
     gap: 5px;
 }
 
 a {
-    font-family: Cascadia Code;
     letter-spacing: 4px;
     font-size: 12px;
 }
 
 p {
-    font-family: Corbel;
     font-size: 12px;
 }
 
 domain {
-    font-family: Cascadia Code;
     font-size: 9px;
 }
 
 subheader {
-    font-family: Cascadia Code;
     color: gainsboro;
 }
 
