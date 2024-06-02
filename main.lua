@@ -30,7 +30,7 @@ query.on_submit(function(content)
     end
 end)
 
-get("luck").on_click(function()
+--[[get("luck").on_click(function()
     cards_thing()
 
     local res = fetch({
@@ -54,7 +54,7 @@ get("luck").on_click(function()
     else
         desc.set_content("No description :|")
     end
-end)
+end)]]
 
 function cards_thing()
     if not visible then
