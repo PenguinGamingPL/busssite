@@ -12,6 +12,8 @@ search {
 
 query {
     background-color: #48494E;
-    width: 500px;
-    height: 30px;
+    width: 520px;
+    height: 5px;
+    padding: 10px;
+    font-size: 15px;
 }
