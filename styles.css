@@ -9,3 +9,9 @@ search {
     align-items: center;
     direction: column;
 }
+
+query {
+    background-color: #48494E;
+    width: 500px;
+    height: 30px;
+}
