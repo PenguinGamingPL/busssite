@@ -1,9 +1,9 @@
 body {
+    background-color: #2d2e31;
     padding: 0px;
     border-radius: 0px;
 }
 
 search {
-  background-color: #2d2e31;
-  align-items: center;
+    align-items: center;
 }
