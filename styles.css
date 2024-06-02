@@ -4,5 +4,6 @@ body {
 }
 
 img {
-    margin: auto;
+    margin: 5em auto;
+    position: relative;
 }
