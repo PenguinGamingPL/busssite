@@ -6,4 +6,6 @@ body {
 img {
     margin: 5em auto;
     position: relative;
+    width: 750px;
+    height: 250px;
 }
