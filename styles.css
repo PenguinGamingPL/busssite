@@ -8,6 +8,5 @@ search {
   overflow: hidden;
   width: 800px;
   height: 350px;
-  margin: 5em auto;
-  position: relative;
+  align-items: center;
 }
