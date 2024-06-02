@@ -7,4 +7,5 @@ body {
 
 search {
     align-items: center;
+    direction: column;
 }
