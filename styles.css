@@ -21,7 +21,7 @@ query {
 }
 
 card {
-    opacity: 0.0;
+    opacity: 0.5;
 
     direction: column;
     padding: 10px;
