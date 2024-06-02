@@ -3,9 +3,11 @@ body {
     border-radius: 0px;
 }
 
-img {
-    margin: 5em auto;
-    position: relative;
-    width: 750px;
-    height: 250px;
+.infobox {
+  background-color: #2d2e31;
+  overflow: hidden;
+  width: 800px;
+  height: 350px;
+  margin: 5em auto;
+  position: relative;
 }
